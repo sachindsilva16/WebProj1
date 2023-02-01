@@ -40,6 +40,10 @@
         display: block;
     }
 
+
+.logo-link{
+  text-decoration: none;
+}
     #logoText {
         color: white;
         text-align: center;
